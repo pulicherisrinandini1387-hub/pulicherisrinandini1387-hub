@@ -123,6 +123,34 @@ A real-time surplus food redistribution platform that connects food donors with 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulicherisrinandini1387-hub&layout=compact&theme=tokyonight" />
 
 </div>
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pulicherisrinandini1387-hub&theme=tokyonight" />
+
+</div>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pulicherisrinandini1387-hub&theme=tokyonight&no-frame=true&margin-w=10" />
+
+</div>
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pulicherisrinandini1387-hub&theme=tokyo-night" />
+
+</div>
+
  
 ## Contact
 
