@@ -160,6 +160,7 @@ A real-time surplus food redistribution platform that connects food donors with 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/pulicherisrinandini1387-hub/pulicherisrinandini1387-hub/output/github-contribution-grid-snake.svg)
 
 </div>
+
 ---
 
 ## 🎯 Current Focus
