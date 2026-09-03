@@ -88,6 +88,7 @@ A responsive website designed using HTML and CSS, featuring structured sections,
 | Impact | Responsive and user-friendly web experience |
 | Repository | [View on GitHub](https://github.com/pulicherisrinandini1387-hub/queens-of-change-website) |
 
+
 </details>
 ##  🚀 Personal Projects
 
@@ -159,7 +160,30 @@ A real-time surplus food redistribution platform that connects food donors with 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/pulicherisrinandini1387-hub/pulicherisrinandini1387-hub/output/github-contribution-grid-snake.svg)
 
 </div>
- 
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software Engineering
+
+Building:
+  - AI and web-based projects
+  - Practical software solutions
+
+Exploring:
+  - Generative AI
+  - Multi-agent systems
+  - Modern web development
+
+Open To:
+  - Collaborations
+  - Hackathons
+  - AI and software projects
+  - Learning opportunities
 ## Contact
 
 - 📧 Email: pulicherisrinandini1387gmail.com
