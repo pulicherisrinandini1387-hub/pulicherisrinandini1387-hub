@@ -164,7 +164,7 @@ A real-time surplus food redistribution platform that connects food donors with 
 
 ## 🎯 Current Focus
 
-```yaml
+ ```yaml
 Learning:
   - Artificial Intelligence
   - Machine Learning
@@ -184,6 +184,7 @@ Open To:
   - Hackathons
   - AI and software projects
   - Learning opportunities
+
 ## Contact
 
 - 📧 Email: pulicherisrinandini1387gmail.com
