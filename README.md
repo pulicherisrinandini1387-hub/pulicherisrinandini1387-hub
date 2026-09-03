@@ -150,7 +150,15 @@ A real-time surplus food redistribution platform that connects food donors with 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pulicherisrinandini1387-hub&theme=tokyo-night" />
 
 </div>
+---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/pulicherisrinandini1387-hub/pulicherisrinandini1387-hub/output/github-contribution-grid-snake.svg)
+
+</div>
  
 ## Contact
 
