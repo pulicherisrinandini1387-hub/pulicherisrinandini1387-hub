@@ -89,6 +89,14 @@ A responsive website designed using HTML and CSS, featuring structured sections,
 | Repository | [View on GitHub](https://github.com/pulicherisrinandini1387-hub/queens-of-change-website) |
 
 </details>
+## 🚀 Personal Projects
+
+### 🍱 FoodBridge – Surplus Food
+A real-time surplus food redistribution platform that connects food donors with verified NGOs and volunteers, helping reduce food waste and CO₂ emissions while getting surplus food to communities in need.
+
+- 🌐 **Live Demo:** https://foodbridge-surplus-food.vercel.app
+- 💻 **GitHub:** https://github.com/pulicherisrinandini1387-hub/foodbridge-surplus-food
+- 🛠️ **Tech:** HTML, CSS, JavaScript
 
 ## Experience
 
