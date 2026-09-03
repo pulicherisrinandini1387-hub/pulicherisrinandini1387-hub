@@ -1,5 +1,5 @@
-#Pulicheri Srinandini
-###B.Tech AI Student @ IIT Kharagpur | 2nd year | Aspiring AI Engineer
+# Pulicheri Srinandini
+###  B.Tech AI Student @ IIT Kharagpur | 2nd year | Aspiring AI Engineer
 Kharagpur , India
 ---
 ## About Me
