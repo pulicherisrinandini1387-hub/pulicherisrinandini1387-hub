@@ -90,3 +90,14 @@ A responsive website designed using HTML and CSS, featuring structured sections,
 
 </details>
 
+## Experience
+
+- **Events Team Volunteer — Kshitij, IIT Kharagpur**
+  - Contributed to event coordination and team activities.
+  - Gained experience in teamwork, communication, and event management.
+ 
+## Contact
+
+- 📧 Email: pulicherisrinandini1387gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/pulicheri-srinandini-2819b93b1
+- 🐙 GitHub: [@pulicherisrinandini1387-hub](https://github.com/pulicherisrinandini1387-hub)
