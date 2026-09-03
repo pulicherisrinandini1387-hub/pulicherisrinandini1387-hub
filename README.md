@@ -111,6 +111,18 @@ A real-time surplus food redistribution platform that connects food donors with 
 | B.Tech Student at IIT Kharagpur | Artificial Intelligence, 2nd Year |
 | Technical Projects | Built web and AI-based projects |
 | Technical Skills | Python, C, C++, HTML, CSS, Git, GitHub |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pulicherisrinandini1387-hub&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulicherisrinandini1387-hub&layout=compact&theme=tokyonight" />
+
+</div>
  
 ## Contact
 
