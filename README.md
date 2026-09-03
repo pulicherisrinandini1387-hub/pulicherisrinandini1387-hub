@@ -89,7 +89,7 @@ A responsive website designed using HTML and CSS, featuring structured sections,
 | Repository | [View on GitHub](https://github.com/pulicherisrinandini1387-hub/queens-of-change-website) |
 
 </details>
-## 🚀 Personal Projects
+##  🚀 Personal Projects
 
 ### 🍱 FoodBridge – Surplus Food
 A real-time surplus food redistribution platform that connects food donors with verified NGOs and volunteers, helping reduce food waste and CO₂ emissions while getting surplus food to communities in need.
@@ -103,6 +103,14 @@ A real-time surplus food redistribution platform that connects food donors with 
 - **Events Team Volunteer — Kshitij, IIT Kharagpur**
   - Contributed to event coordination and team activities.
   - Gained experience in teamwork, communication, and event management.
+
+## 🏆 Achievements
+
+| Recognition | Details |
+|---|---|
+| B.Tech Student at IIT Kharagpur | Artificial Intelligence, 2nd Year |
+| Technical Projects | Built web and AI-based projects |
+| Technical Skills | Python, C, C++, HTML, CSS, Git, GitHub |
  
 ## Contact
 
